@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyPann
 - 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning html and CSS
+- 🌱 I’m currently learning SQL, HTML, and CSS
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me - idk tbh
 - 😄 Pronouns: he/him
